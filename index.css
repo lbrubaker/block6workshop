@@ -1,0 +1,97 @@
+h1{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(164, 109, 201);
+    font-weight: bold;
+    text-align: center ;}
+
+
+.pantry-section{
+    width: 555px; 
+    border: 5px solid gray;
+    padding: 5px;
+    margin: 20px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: tan;
+}
+
+
+.freezer-section{
+    width: 555px; 
+    border: 5px solid gray;
+    padding: 5px;
+    margin: 20px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: tan
+}
+
+.canned-section{
+    width: 250px;
+    height: 183px;
+    vertical-align: bottom;
+    border: 2px solid navy;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+    margin: 20px;
+    display: inline-block;
+    background-color: lightblue;
+}
+
+
+.drygoods-section{    
+    width: 250px;
+    vertical-align: bottom;
+    height: 183px;
+    border: 2px solid navy;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+    margin: 20px;
+    display: inline-block;
+    background-color: lightblue;}
+
+
+    .veggie-section{
+        width: 250px;
+        height: 167px;
+        border: 2px solid navy;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        padding: 5px;
+        margin: 20px;
+        display: inline-block;
+        background-color: lightblue;
+    }
+    
+    
+    .snacks-section{    
+        width: 250px;
+        height: 167px;
+        border: 2px solid navy;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        padding: 5px;
+        margin: 20px;
+        display: inline-block;
+        background-color: lightblue;}
+
+
+        .cannedimg-section{
+            width: auto;
+            height: auto;
+            border: 2px solid navy;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            padding: 5px;
+            margin: 20px;
+            display: inline-block;
+            vertical-align: bottom;
+            background-color: lightblue;
+        } 
+
+        .freezerimg-section{
+            width: auto;
+            border: 2px solid navy;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            padding: 5px;
+            margin: 20px;
+            display: inline-block;
+            vertical-align: bottom;
+            background-color: lightblue;
+        } 
